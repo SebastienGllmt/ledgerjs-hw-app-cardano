@@ -1,0 +1,1 @@
+{"version":3,"file":"deviceStatusError.d.ts","sourceRoot":"","sources":["../../src/errors/deviceStatusError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAMxC,eAAO,MAAM,iBAAiB;;;;;;;;;CAW7B,CAAC;AA8BF,qBAAa,iBAAkB,SAAQ,SAAS;IACrC,IAAI,EAAE,MAAM,CAAA;gBAEA,IAAI,EAAE,MAAM;CAIlC"}

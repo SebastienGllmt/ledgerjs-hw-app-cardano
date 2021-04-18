@@ -3,11 +3,9 @@
 [include]
 
 [libs]
-flow-typed
 
 [lints]
 
 [options]
-munge_underscores=true
 
 [strict]

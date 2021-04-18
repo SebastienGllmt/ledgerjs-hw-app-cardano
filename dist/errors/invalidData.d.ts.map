@@ -1,0 +1,1 @@
+{"version":3,"file":"invalidData.d.ts","sourceRoot":"","sources":["../../src/errors/invalidData.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AACxC,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAM7D,qBAAa,WAAY,SAAQ,SAAS;gBACnB,MAAM,EAAE,iBAAiB;CAG/C"}

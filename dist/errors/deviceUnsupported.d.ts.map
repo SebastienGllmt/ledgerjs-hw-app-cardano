@@ -1,0 +1,1 @@
+{"version":3,"file":"deviceUnsupported.d.ts","sourceRoot":"","sources":["../../src/errors/deviceUnsupported.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAMxC,qBAAa,wBAAyB,SAAQ,SAAS;gBAChC,MAAM,EAAE,MAAM;CAGpC"}

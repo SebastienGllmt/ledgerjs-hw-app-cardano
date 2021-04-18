@@ -1,0 +1,1 @@
+{"version":3,"file":"signTx.d.ts","sourceRoot":"","sources":["../../src/interactions/signTx.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAwE,oBAAoB,EAAmE,OAAO,EAAE,MAAM,mBAAmB,CAAC;AAE9M,OAAO,KAAK,EAAE,qBAAqB,EAAE,MAAM,iBAAiB,CAAC;AAK7D,OAAO,KAAK,EAAE,WAAW,EAAc,MAAM,gBAAgB,CAAC;AAyU9D,wBAAiB,eAAe,CAAC,OAAO,EAAE,OAAO,EAAE,OAAO,EAAE,oBAAoB,GAAG,WAAW,CAAC,qBAAqB,CAAC,CA8DpH"}

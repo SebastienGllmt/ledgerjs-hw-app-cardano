@@ -1,0 +1,1 @@
+{"version":3,"file":"txOutput.d.ts","sourceRoot":"","sources":["../../../src/interactions/serialization/txOutput.ts"],"names":[],"mappings":";AAAA,OAAO,KAAK,EAAqB,gBAAgB,EAAE,YAAY,EAAE,WAAW,EAAqB,MAAM,sBAAsB,CAAC;AA6B9H,wBAAgB,4BAA4B,CAC1C,MAAM,EAAE,YAAY,GACnB,MAAM,CAMR;AAED,wBAAgB,mBAAmB,CACjC,UAAU,EAAE,gBAAgB,UAM7B;AAED,wBAAgB,cAAc,CAC5B,KAAK,EAAE,WAAW,UAOnB"}
